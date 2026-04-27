@@ -1,5 +1,5 @@
 # 🎧 Exercício de Prática de JavaScript | AudioBook  
-[English Version Here!](https://github.com/analurod/javascript-audiobook-challenge/blob/main/englishversion.md)
+[English Version Here!](https://github.com/analurod/javascript-audiobook-challenge/blob/main/englishversion.md)<br>
 Este repositório contém um exercício prático de JavaScript, desenvolvido na primeira aula do intensivo de JS da **Hashtag Treinamentos**. O objetivo deste exercício é reforçar habilidades em JavaScript por meio de exemplos práticos e interativos.  
 
 ---
